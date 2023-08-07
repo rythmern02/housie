@@ -1,4 +1,6 @@
-# Real Estate NFT DApp
+# Housie DApp
+
+Hey ! guys this is my new project make sure to check this out
 
 ## Technology Stack & Tools
 
